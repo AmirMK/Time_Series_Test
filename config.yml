@@ -1,0 +1,7 @@
+date_column: time
+actual_column: Actual
+predict_column: Predict
+account_column: Account
+target_column: Target
+best_column: Best
+worse_column: Worse
